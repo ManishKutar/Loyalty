@@ -8,6 +8,9 @@
                     },
                     {
                         "path":  "BingMaps.PTE"
+                    },
+                    {
+                        "path":  "BingMaps.PTE_Test"
                     }
                 ],
     "settings":  {
