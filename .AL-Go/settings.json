@@ -5,6 +5,6 @@
                        "BingMaps.PTE"
                    ],
     "testFolders":  [
-
+                        "BingMaps.PTE_Test"
                     ]
 }
