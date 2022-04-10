@@ -43,5 +43,6 @@ pageextension 74120 "BingMaps Cust Card" extends "Customer Card"
         BingMapsSetup: Codeunit "BingMaps Setup";
     begin
         ShowFactBox := BingMapsSetup.GetSettings(BingMapsSettings, EnableShowAll);
+        Message('Completed');   //MNK_Test_For_Failure
     end;
 }
