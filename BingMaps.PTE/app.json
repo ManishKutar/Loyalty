@@ -1,7 +1,7 @@
 ﻿{
     "id":  "165d73c1-39a4-4fb6-85a5-925edc1684fb",
     "name":  "BingMaps.PTE",
-    "publisher":  "Freddy Kristiansen",
+    "publisher":  "ManK",
     "version":  "3.0.27.0",
     "brief":  "BingMaps Integration",
     "description":  "BingMaps Integration App with geocode functionality and map control",
